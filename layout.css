@@ -1,0 +1,22 @@
+form {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+legend {
+  border: 1px solid black;
+}
+
+div {
+  text-align: center;
+
+}
+
+
+label {
+  display: block;
+}
+
+.role input {
+  display: inline-block;
+}
