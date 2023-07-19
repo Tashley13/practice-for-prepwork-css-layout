@@ -17,6 +17,6 @@ label {
   display: block;
 }
 
-.role input {
+.role.date input {
   display: inline-block;
 }
